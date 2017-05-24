@@ -12,9 +12,33 @@ body {
   width: 15%;
   margin: 1%;
   padding: 1%;
-  background-color: #eeeeee;
 }
 
+.column-bg1 {
+  background-color: orange;
+}
+
+.column-bg2 {
+  background-color: green;
+}
+
+.column-bg3 {
+  background-color: gray;
+}
+
+.column-bg4 {
+  background-color: brown;
+}
+
+.column-bg5 {
+  background-color: blue;
+}
+
+img {
+  max-width: 95%;
+  width: auto;
+  height: auto;
+}
 div p {
   width: 70%;
 }
