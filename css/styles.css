@@ -1,0 +1,20 @@
+body {
+  background-color: #ffffff;
+}
+
+.container {
+  width: 100%;
+}
+
+.column {
+  float: left;
+  overflow-x: hidden;
+  width: 15%;
+  margin: 1%;
+  padding: 1%;
+  background-color: #eeeeee;
+}
+
+div p {
+  width: 70%;
+}
